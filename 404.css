@@ -1,0 +1,35 @@
+body{
+	background-color: #CBD2DA;
+	overflow: hidden;
+	width: 100%;height: 100%;
+	
+}
+#fof{
+	
+	width: 100%;
+	height: 100%;
+	display: grid;
+	position: absolute;
+	grid-template-rows:25% 50% 25%;
+}
+#page1 h1{
+	width: 100%;
+	text-align: center;
+	color:#535A64;font-size: 50px;
+}
+#page2{
+	
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content:center;
+}
+#page3 h1,h3{
+	
+	width: 100%;
+	text-align: center;
+}
+#page3 h1{
+	color:#666666;
+}
+#page3 h3{color:#3B4141;}
